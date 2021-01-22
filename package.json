@@ -1,0 +1,30 @@
+{
+  "name": "guideastro",
+  "version": "1.0.0",
+  "description": "A initial guide to astro lovers",
+  "main": "index.js",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cookies": "^0.8.0",
+    "dotenv": "^8.2.0",
+    "express-jwt": "^6.0.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "mysql": "^2.18.1",
+    "uniqid": "^5.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "run astroguide"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Meelan-98/GuideAstro.git"
+  },
+  "author": "SE-G11",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Meelan-98/GuideAstro/issues"
+  },
+  "homepage": "https://github.com/Meelan-98/GuideAstro#readme"
+}
